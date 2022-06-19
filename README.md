@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PramodTalurKulkarni
-- 👀 I’m interested in Software Developing Good in Core Java and Core Python.
-- 🌱 I’m currently working on web API .net framework.
-- 💞️ I’m looking to collaborate in IT companies
+- 👀 I’m interested in Software Developing Good in Core Java.
+- 🌱 I’m currently working on Automation Selenium Testing and Angular Js.
+- 💞️ I’m Working in Big MNC Company Capgemini.
 - 📫 How to reach me pramod.talurkulkarni@gmail.com or 8861016936/9901635532
-- 💼 I'm Intern Web Developer
+- 💼 I'm Software Tester and trying to become Web Developer.
 
 <!---
 PramodTalurKulkarni/PramodTalurKulkarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
